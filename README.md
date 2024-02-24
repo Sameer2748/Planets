@@ -1,9 +1,17 @@
 # React + Vite
+- This Application is created with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- run these command to start application in your computer 
 
-Currently, two official plugins are available:
+- npm install 
+- npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# planets
+- Then open https://localhost:5173
+
+- This application get Planet data from this (https://swapi.dev/api/planets/?format=json) url
+
+- In Home page there will be card for every Planet and read more button 
+
+- when you click on read more button you will get all extra deatils of planet like residents.
+
+
