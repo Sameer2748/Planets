@@ -6,7 +6,7 @@
 - npm install 
 - npm run dev
 
-- Then open https://localhost:5173
+- Then open http://localhost:5173
 
 - This application get Planet data from this (https://swapi.dev/api/planets/?format=json) url
 
